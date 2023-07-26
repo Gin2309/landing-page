@@ -2,7 +2,7 @@ import React from "react";
 import { bottomfood, play } from "../assets";
 
 const Aboutpage = () => (
-  <div class="flex z-1">
+  <div class="flex z-1 ">
     <div>
       <img src={bottomfood} alt="" />
     </div>
