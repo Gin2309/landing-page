@@ -11,7 +11,7 @@ import {
 } from "./components";
 
 const App = () => (
-  <div className={`bg-gray-100 w-max`}>
+  <div className={`bg-gray-100 `} class="appclass">
     <div>
       <div>
         <Navbar />

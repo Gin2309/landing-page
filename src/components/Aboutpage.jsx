@@ -6,7 +6,7 @@ const Aboutpage = () => (
     <div>
       <img src={bottomfood} alt="" />
     </div>
-    <div>
+    <div className="mr-[50px]">
       <span className={`text-[#F4980D] font-bold text-[17px]`}>About</span>
       <h1 className={`text-[#4C4C4C] text-[40px] font-bold`}>
         Food Is An Important <br /> Part Of A Balanced <br /> Diet
